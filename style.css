@@ -1,0 +1,49 @@
+#main0
+{
+
+
+    justify-content: center;
+}
+#main1
+{
+
+    text-align: right;
+    color: black;
+    position: relative;
+    left: 30px;
+    top:20px;
+}
+#main2
+{
+
+  width: 800px;
+  height:400px;
+
+    position: relative;
+    left: 400px;
+    top:20px;
+}
+#main3
+{
+    position: relative;
+    left: 200px;
+bottom: 200px;
+    width: 600px;
+    height: 400px;
+}
+#main4
+{
+    position: relative;
+
+right: 200px;
+}
+#main5
+{
+
+    position: relative;
+    right: 200px;
+bottom: 500px;
+
+
+
+}
